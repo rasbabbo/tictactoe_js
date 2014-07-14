@@ -16,3 +16,16 @@
 	font-size: 90px;
 }
 
+h1 {
+	text-align: center;
+	color: blue;
+}
+
+h2 {
+	text-align: center;
+}
+
+#reset {
+	text-align: center;
+	background-color: red
+}
